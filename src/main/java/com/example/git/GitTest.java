@@ -19,5 +19,7 @@ public class GitTest {
         System.out.println("hello,pull");
         System.out.println("hello,pullconfilct");
         System.out.println("hello,wwpullconfilct");
+        System.out.println("hello,whhh");
+        
     }
 }
