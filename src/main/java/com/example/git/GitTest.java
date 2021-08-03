@@ -17,5 +17,7 @@ public class GitTest {
         System.out.println("hello,sshpush");
         System.out.println("hello,ssh");
         System.out.println("hello,pull");
+        System.out.println("hello,pullconfilct");
+        System.out.println("hello,wwpullconfilct");
     }
 }
